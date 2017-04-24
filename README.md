@@ -10,3 +10,4 @@ Most assets were created from scratch in that 48 hours. The exceptions are as fo
           Unity's Post Processing Stack - Went unused in the final game, but the source is still there
           Unity's Standard Assets - Several objects sample textures provided in the Standard Assets, not in any hugely noticable way, but they do.
           UCLA Game Lab's Wireframe Shader - The Wireframe Single-Sided Cutout shader was heavily modified to do some additional shadery-type effects
+          ModeSeven font
